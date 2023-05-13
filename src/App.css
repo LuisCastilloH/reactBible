@@ -1,0 +1,15 @@
+.selected {
+  background-color: yellow;
+}
+
+.compare-verse {
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 1px;
+}
+
+.compare-verse-text {
+  width: 95%;
+  height: 15%;
+  padding: 5px;
+}
