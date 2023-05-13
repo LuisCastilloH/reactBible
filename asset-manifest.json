@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/reactBible/static/css/main.e6c13ad2.css",
+    "main.js": "/reactBible/static/js/main.926df575.js",
+    "static/js/787.9362b8d7.chunk.js": "/reactBible/static/js/787.9362b8d7.chunk.js",
+    "index.html": "/reactBible/index.html",
+    "main.e6c13ad2.css.map": "/reactBible/static/css/main.e6c13ad2.css.map",
+    "main.926df575.js.map": "/reactBible/static/js/main.926df575.js.map",
+    "787.9362b8d7.chunk.js.map": "/reactBible/static/js/787.9362b8d7.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.926df575.js"
+  ]
+}
